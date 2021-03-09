@@ -1,4 +1,10 @@
 <html>
-	<title>Título</title>
-	<title>Diogo Henriqe</title>
+<<<<<<< HEAD
+	<title>Título: Fazendo alguns testes com Git e GitHub</title>
+	<title>Nome: Diogo Henrique</title>
+=======
+	<title>Felipe</title>
+	<title>Diogo</title>
+	<title>Leticia</title>
+>>>>>>> c12cc95d8441147f8bea2ecfff9cf29e335e998d
 </html>
